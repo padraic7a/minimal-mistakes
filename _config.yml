@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "padraic7a"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -50,9 +50,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
+    tracking_id          : "UA-77034026-1"
 
 # Google AdSense
 google_ad_client         :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Padraic Stack"
+  avatar           : "keyboard_screen.png"
+  bio              : "Librarian / Digital Humanist / hoarder of books"
+  location         : "Dublin / Maynooth"
   email            :
   uri              :
   bitbucket        :
@@ -75,16 +75,16 @@ author:
   foursquare       :
   github           :
   google_plus      :
-  keybase          :
+  keybase          : "padraic"
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "padraicstack"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "padraicst"
   vine             :
   weibo            :
   xing             :
