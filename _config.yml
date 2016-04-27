@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "padraic7a"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Padraic"
+description              : "An occasional blog."
+url                      : # "https://padraic.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "padraic7a"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "padraicst"
 facebook:
   username               :
   app_id                 :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Padraic Stack"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Librarian, hoarder of books"
+  location         : "Dublin / Maynooth, Ireland"
   email            :
   uri              :
   bitbucket        :
@@ -75,10 +75,10 @@ author:
   foursquare       :
   github           :
   google_plus      :
-  keybase          :
+  keybase          : "padraic"
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "padraicstack"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
