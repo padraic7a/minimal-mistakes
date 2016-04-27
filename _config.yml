@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "padraic7a"
-title_separator          : "-"
+title_separator          : " - "
 name                     : "Padraic"
 description              : "An occasional blog."
-url                      : # "https://padraic.org"
+url                      : http://localhost:4000 # "https://padraic.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Padraic Stack"
-  avatar           : "bio-photo.jpg"
+  avatar           : "keyboard_screen.png"
   bio              : "Librarian, hoarder of books"
   location         : "Dublin / Maynooth, Ireland"
   email            :
@@ -82,13 +82,13 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  steam            : #
+  tumblr           : #
+  twitter          : #
+  vine             : #
+  weibo            : #
+  xing             : #
+  youtube          : #
 
 
 # Reading Files
