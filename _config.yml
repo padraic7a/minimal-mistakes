@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "padraic7a"
-title_separator          : " - "
-name                     : "Padraic"
+locale                   : "en-IE"
+title                    : "A blog"
+title_separator          : "|"
+name                     : "Padraic Stack"
 description              : "An occasional blog."
-url                      : http://localhost:4000 # "https://padraic.org"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "padraic7a"
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "padraicst"
+  username               : "padraicst" 
 facebook:
   username               :
   app_id                 :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Padraic Stack"
-  avatar           : "keyboard_screen.png"
-  bio              : "Librarian, hoarder of books"
-  location         : "Dublin / Maynooth, Ireland"
+  name             : "Your Name"
+  avatar           : "bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   uri              :
   bitbucket        :
@@ -75,20 +75,20 @@ author:
   foursquare       :
   github           :
   google_plus      :
-  keybase          : "padraic"
+  keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "padraicstack"
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : #
-  tumblr           : #
-  twitter          : #
-  vine             : #
-  weibo            : #
-  xing             : #
-  youtube          : #
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
 
 
 # Reading Files
@@ -204,3 +204,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
