@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-IE"
-title                    : "A blog"
+title                    : "A very occasional blog"
 title_separator          : "|"
 name                     : "Padraic Stack"
-description              : "An occasional blog."
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
